@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Витерти пил",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "Винести смітт",
+      "completed": false
+    },
+    {
+      "id": "3",
+      "title": "Помити посуд",
+      "completed": true
+    }
+  ]
+}

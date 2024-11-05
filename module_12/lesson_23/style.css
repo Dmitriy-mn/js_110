@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  margin: 0;
+}
+
+.list__item {
+  display: flex;
+  width: 300px;
+  margin: 10px 0;
+}
+
+.list__title {
+  margin: 0;
+  margin-left: 15px;
+  flex: 1 0 auto;
+}
+
+button {
+  cursor: pointer;
+}
+
+.todo__form {
+  width: 300px;
+}
+
+.todo__form input {
+  width: 100%;
+}
